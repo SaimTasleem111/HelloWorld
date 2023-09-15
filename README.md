@@ -1,11 +1,9 @@
 📖 Hello World
 
-Describe your project in 1 or 2 sentences.
-[hello world] is a basic html code and css code to understand their functions and go through with it.
+hello world is a basic html code and css code to understand their functions and go through with it.
 
 🛠 Built With
 
-Tech Stack
 Html
 Css
 
